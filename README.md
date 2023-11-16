@@ -1,2 +1,3 @@
-# UEPluginTemplate
-Template repository for UE Plugins
+# UE UI Extension
+
+A subsystem that allows extending UI elements in a modular way
